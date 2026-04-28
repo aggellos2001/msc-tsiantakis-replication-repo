@@ -24,5 +24,27 @@ Refer to this URL for the full license information: https://creativecommons.org/
 3. Recommended Citation
 If you use this code or data in your research, please cite the following:
 
-not yet published
+BibTeX:
+@mastersthesis{_comparative_2026,
+	title = {A comparative performance analysis of flutter, kotlin multiplatform, and native android for mobile development},
+	url = {http://ir.lib.uth.gr/xmlui/handle/11615/88607},
+	language = {en},
+	urldate = {2026-04-28},
+	author = {Τσιαντάκης, Μιχαήλ-Άγγελος Μ},
+	year = {2026},
+	note = {Accepted: 2026-03-30T11:04:26Z},
+}
 
+RIS:
+TY  - THES
+TI  - A comparative performance analysis of flutter, kotlin multiplatform, and native android for mobile development
+AU  - Τσιαντάκης, Μιχαήλ-Άγγελος Μ
+DA  - 2026///
+PY  - 2026
+DP  - ir.lib.uth.gr
+LA  - en
+M3  - masterThesis
+UR  - http://ir.lib.uth.gr/xmlui/handle/11615/88607
+Y2  - 2026/04/28/10:49:11
+L1  - http://ir.lib.uth.gr/xmlui/bitstream/11615/88607/4/34038.pdf
+ER  - 
